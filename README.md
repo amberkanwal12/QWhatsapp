@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="screenshots/login1.png" width="600" alt="ChatWave Banner"/>
+<img src="screenshots/login1.jpeg" width="600" alt="ChatWave Banner"/>
 
 # 💬 ChatWave — WhatsApp Clone
 ### A Full-Featured Real-Time Desktop Messaging Application
