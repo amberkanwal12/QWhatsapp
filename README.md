@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="screenshots/login.png" width="600" alt="ChatWave Banner"/>
+<img src="screenshots/login1.png" width="600" alt="ChatWave Banner"/>
 
 # 💬 ChatWave — WhatsApp Clone
 ### A Full-Featured Real-Time Desktop Messaging Application
@@ -10,7 +10,8 @@
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
-**Built by [Amber Kanwal](https://linkedin.com/in/amber-kanwal-088b22350) — BS Software Engineering, Riphah International University**
+**Built by [Amber Kanwal](https://linkedin.com/in/amber-kanwal-088b22350) — BS Software Engineering**
+Contact me for this project amberkanwal183@gmail.com
 
 </div>
 
@@ -151,9 +152,7 @@
 ## 👩‍💻 Developer
 
 **Amber Kanwal**
-BS Software Engineering — 5th Semester
-Riphah International University, Sahiwal, Pakistan
-CGPA: 3.91 / 4.00 *(Highest in Department)*
+BS Software Engineering
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/amber-kanwal-088b22350)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/amberkanwal12)
