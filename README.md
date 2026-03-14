@@ -79,27 +79,35 @@
 <table>
   <tr>
     <td align="center"><b>Login / OTP</b></td>
+    <td align="center"><b>OTP Verification</b></td>
+  </tr>
+  <tr>
+    <td><img src="screenshots/login1.jpeg" width="350"/></td>
+    <td><img src="screenshots/otp.jpeg" width="350"/></td>
+  </tr>
+    <tr>
+    <td align="center"><b>SMS</b></td>
     <td align="center"><b>Chat Window</b></td>
   </tr>
   <tr>
-    <td><img src="screenshots/login.png" width="350"/></td>
-    <td><img src="screenshots/chat.png" width="350"/></td>
+    <td><img src="screenshots/twilo_confirm.jpeg" width="350"/></td>
+    <td><img src="screenshots/chat.jpeg" width="350"/></td>
   </tr>
   <tr>
     <td align="center"><b>Voice Call</b></td>
     <td align="center"><b>Message Search</b></td>
   </tr>
   <tr>
-    <td><img src="screenshots/voice_call.png" width="350"/></td>
-    <td><img src="screenshots/search.png" width="350"/></td>
+    <td><img src="screenshots/call.jpeg" width="350"/></td>
+    <td><img src="screenshots/theme.jpeg" width="350"/></td>
   </tr>
   <tr>
-    <td align="center"><b>OTP Verification</b></td>
+    <td align="center"><b>Features </b></td>
     <td align="center"><b>Contacts</b></td>
   </tr>
   <tr>
-    <td><img src="screenshots/otp.png" width="350"/></td>
-    <td><img src="screenshots/contacts.png" width="350"/></td>
+    <td><img src="screenshots/features.jpeg" width="350"/></td>
+    <td><img src="screenshots/login.jpeg" width="350"/></td>
   </tr>
 </table>
 
