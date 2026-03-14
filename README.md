@@ -10,7 +10,7 @@
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
-**Built by [Amber Kanwal](https://linkedin.com/in/amber-kanwal-088b22350) — BS Software Engineering**\n
+**Built by [Amber Kanwal](https://linkedin.com/in/amber-kanwal-088b22350) — BS Software Engineering**
 Contact me for this project amberkanwal183@gmail.com
 
 </div>
